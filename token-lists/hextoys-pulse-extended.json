@@ -206,14 +206,6 @@
       "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
-      "name": "BCG",
-      "address": "0xa159656d4d32d4cdc40bc795978142e4b676c198",
-      "symbol": "🎲",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://tokens.hex.toys/images/369/default.png"
-    },
-    {
       "name": "Elementh Token",
       "address": "0x4c567c3363cc42c5a42c6d8bf01503fd1d0b91cd",
       "symbol": "EEE",
@@ -1550,22 +1542,6 @@
       "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
-      "name": "民宿通",
-      "address": "0xa68920f6d3c996ac3c232e4e93914e9d76150735",
-      "symbol": "MST",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://tokens.hex.toys/images/369/default.png"
-    },
-    {
-      "name": "BSKR - pulselorian.com",
-      "address": "0x19ea5fa4d1dbd7413752b93f856b1cd165f2f219",
-      "symbol": "BSKR",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://tokens.hex.toys/images/369/default.png"
-    },
-    {
       "name": "Value Chain",
       "address": "0x8f7b0b40e27e357540f90f187d90ce06366ac5a5",
       "symbol": "VLC",
@@ -1834,14 +1810,6 @@
       "address": "0xa720911a58d948fc9328560aecfc51e907404fc4",
       "symbol": "FACC",
       "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://tokens.hex.toys/images/369/default.png"
-    },
-    {
-      "name": "Dentacoin",
-      "address": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6",
-      "symbol": "٨",
-      "decimals": 0,
       "chainId": 369,
       "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
@@ -2201,14 +2169,6 @@
       "name": "EBCoin",
       "address": "0x31f3d9d1bece0c033ff78fa6da60a6048f3e13c5",
       "symbol": "EBC",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://tokens.hex.toys/images/369/default.png"
-    },
-    {
-      "name": "eosDAC Community Owned EOS Block Producer ERC20 Tokens",
-      "address": "0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba",
-      "symbol": "eosDAC",
       "decimals": 18,
       "chainId": 369,
       "logoURI": "https://tokens.hex.toys/images/369/default.png"
