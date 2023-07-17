@@ -1414,6 +1414,14 @@
       "logoURI": ""
     },
     {
+      "name": "Wrapped BTC from Ethereum",
+      "symbol": "WBTC",
+      "address": "0xb17D901469B9208B17d916112988A3FeD19b5cA1",
+      "chainId": 369,
+      "decimals": 8,
+      "logoURI": "https://tokens.hex.toys/images/369/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
+    },
+    {
       "name": "BitoxTokens",
       "address": "0xbdda280ee7bccc68f3be60a369b6b1eaee02493c",
       "symbol": "BITOX",
