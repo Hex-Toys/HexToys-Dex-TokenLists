@@ -19,7 +19,7 @@
       "symbol": "HEALP",
       "decimals": 0,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Minereum32 - Only 32 Tokens Supply",
@@ -27,7 +27,7 @@
       "symbol": "M32",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "PulseX",
@@ -35,7 +35,7 @@
       "symbol": "PLSX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Tronix",
@@ -43,7 +43,7 @@
       "symbol": "TRX",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "sciVive",
@@ -51,7 +51,7 @@
       "symbol": "sciViVe",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "StorjToken",
@@ -59,7 +59,7 @@
       "symbol": "STORJ",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Tether USD",
@@ -67,7 +67,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "MEET.ONE",
@@ -75,7 +75,7 @@
       "symbol": "MEET.ONE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Our Earth Coin",
@@ -83,7 +83,7 @@
       "symbol": "OEC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "VectoraicToken",
@@ -91,7 +91,7 @@
       "symbol": "VT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "AirdropToken",
@@ -99,7 +99,7 @@
       "symbol": "AIRDROP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "iDAG SPACE",
@@ -107,7 +107,7 @@
       "symbol": "iDAG",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "OCoin",
@@ -115,7 +115,7 @@
       "symbol": "OCN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SiaCashCoin",
@@ -123,7 +123,7 @@
       "symbol": "SCC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "USD Coin",
@@ -131,7 +131,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ALX",
@@ -139,7 +139,7 @@
       "symbol": "ALX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Olive",
@@ -147,7 +147,7 @@
       "symbol": "OLE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Wrapped Ether",
@@ -155,7 +155,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Maximine Coin",
@@ -163,7 +163,7 @@
       "symbol": "MXM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Kotlind",
@@ -171,7 +171,7 @@
       "symbol": "KTD",
       "decimals": 9,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "TrekChain",
@@ -179,7 +179,7 @@
       "symbol": "TREK",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Pulsefomo.com",
@@ -187,7 +187,7 @@
       "symbol": "PULSEFOMO.COM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BOB Token",
@@ -195,7 +195,7 @@
       "symbol": "BOB",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "FLC_Coin",
@@ -203,7 +203,7 @@
       "symbol": "FLC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BCG",
@@ -211,7 +211,7 @@
       "symbol": "🎲",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Elementh Token",
@@ -219,7 +219,7 @@
       "symbol": "EEE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "HEX",
@@ -227,7 +227,7 @@
       "symbol": "HEX",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Origin Forecast",
@@ -235,7 +235,7 @@
       "symbol": "OF",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Leber Network",
@@ -243,7 +243,7 @@
       "symbol": "LBN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BitcoinToken",
@@ -251,7 +251,7 @@
       "symbol": "BTK",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Pundi X Token",
@@ -259,7 +259,7 @@
       "symbol": "NPXS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Aurora DAO",
@@ -267,7 +267,7 @@
       "symbol": "AURA",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Proton Token",
@@ -275,7 +275,7 @@
       "symbol": "PTT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "HadesCoin",
@@ -283,7 +283,7 @@
       "symbol": "HAC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "KNOW",
@@ -291,7 +291,7 @@
       "symbol": "KNOW",
       "decimals": 10,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Secure instant messaging",
@@ -299,7 +299,7 @@
       "symbol": "SIMCG",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Themis Token",
@@ -307,7 +307,7 @@
       "symbol": "THM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Wrapped Pulse",
@@ -315,7 +315,7 @@
       "symbol": "WPLS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Mixin",
@@ -323,7 +323,7 @@
       "symbol": "XIN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Evolution",
@@ -331,7 +331,7 @@
       "symbol": "EVO",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "CWV Chain",
@@ -339,7 +339,7 @@
       "symbol": "CWV",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Bee Honey",
@@ -347,7 +347,7 @@
       "symbol": "HONEY",
       "decimals": 9,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Energy Saving Chain",
@@ -355,7 +355,7 @@
       "symbol": "ENSA",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "KickCoin",
@@ -363,7 +363,7 @@
       "symbol": "KICK",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "VGAMES",
@@ -371,7 +371,7 @@
       "symbol": "VGS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Incentive",
@@ -379,7 +379,7 @@
       "symbol": "INC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "WeToken",
@@ -387,7 +387,7 @@
       "symbol": "WT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Consentium Coin",
@@ -395,7 +395,7 @@
       "symbol": "CSM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "QKL",
@@ -403,7 +403,7 @@
       "symbol": "QKL",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "CGW",
@@ -411,7 +411,7 @@
       "symbol": "CGW",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Value Promise Protocol token",
@@ -419,7 +419,7 @@
       "symbol": "VPP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "OpenSourceChain Token",
@@ -427,7 +427,7 @@
       "symbol": "OSCH",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ProToken",
@@ -435,7 +435,7 @@
       "symbol": "PRO",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BCT Token",
@@ -443,7 +443,7 @@
       "symbol": "BCT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Mass Vehicle Ledger Token",
@@ -451,7 +451,7 @@
       "symbol": "MVL",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Digital Block",
@@ -459,7 +459,7 @@
       "symbol": "DB",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Digiblock",
@@ -467,7 +467,7 @@
       "symbol": "DBX",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "FishOne",
@@ -475,7 +475,7 @@
       "symbol": "FOT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Saifu",
@@ -483,7 +483,7 @@
       "symbol": "SFU",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ZillowBlockchain",
@@ -491,7 +491,7 @@
       "symbol": "ZWB",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ICO CLUB CHAIN",
@@ -499,7 +499,7 @@
       "symbol": "ICC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BBNToken",
@@ -507,7 +507,7 @@
       "symbol": "BBN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Refereum",
@@ -515,7 +515,7 @@
       "symbol": "RFR",
       "decimals": 4,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Atonomi",
@@ -523,7 +523,7 @@
       "symbol": "ATMI",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Dropil",
@@ -531,7 +531,7 @@
       "symbol": "DROP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ExTrade Cash",
@@ -539,7 +539,7 @@
       "symbol": "EXTRA",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "WITH coin",
@@ -547,7 +547,7 @@
       "symbol": "WITH",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Signals Network Token",
@@ -555,7 +555,7 @@
       "symbol": "SGN",
       "decimals": 9,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SoPay",
@@ -563,7 +563,7 @@
       "symbol": "SOP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "DeNet",
@@ -571,7 +571,7 @@
       "symbol": "DNET",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SingularX",
@@ -579,7 +579,7 @@
       "symbol": "SNGX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "NOAHCOIN",
@@ -587,7 +587,7 @@
       "symbol": "NOAH",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Neodium Network",
@@ -595,7 +595,7 @@
       "symbol": "NN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Decentralized Accessible Content Chain",
@@ -603,7 +603,7 @@
       "symbol": "DACC",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Marginless Token",
@@ -611,7 +611,7 @@
       "symbol": "MRS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "HEX from Ethereum",
@@ -619,7 +619,7 @@
       "symbol": "HEX",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BKEX.COM Token",
@@ -627,7 +627,7 @@
       "symbol": "bkex.com",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BrickblockToken",
@@ -635,7 +635,7 @@
       "symbol": "BBK",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SHIBA INU",
@@ -643,7 +643,7 @@
       "symbol": "SHIB",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "NoFakeCoin",
@@ -651,7 +651,7 @@
       "symbol": "NFC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "IOGENESIS",
@@ -659,7 +659,7 @@
       "symbol": "IOG",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "GPPHARMTOKEN",
@@ -667,7 +667,7 @@
       "symbol": "GPP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Link Managenent Chain Token",
@@ -675,7 +675,7 @@
       "symbol": "LMM",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Wrapped Ether from Ethereum",
@@ -683,7 +683,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "KanadeCoin",
@@ -691,7 +691,7 @@
       "symbol": "KNDC",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "HSD",
@@ -699,7 +699,7 @@
       "symbol": "HSD",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "CEEK",
@@ -707,7 +707,7 @@
       "symbol": "CEEK",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BitAnex Coin",
@@ -715,7 +715,7 @@
       "symbol": "ANEX",
       "decimals": 10,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "LegalBot",
@@ -723,7 +723,7 @@
       "symbol": "LBOT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "KaratBank Coin",
@@ -731,7 +731,7 @@
       "symbol": "KBC",
       "decimals": 7,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "DataShieldCoinBank",
@@ -739,7 +739,7 @@
       "symbol": "DSCB",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "LatiumX",
@@ -747,7 +747,7 @@
       "symbol": "LATX",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "PulseLN Founder Token",
@@ -755,7 +755,7 @@
       "symbol": "PLN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "HOLD",
@@ -763,7 +763,7 @@
       "symbol": "HOLD",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "PATRON",
@@ -771,7 +771,7 @@
       "symbol": "PAT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "NePay",
@@ -779,7 +779,7 @@
       "symbol": "NEP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Cashaa",
@@ -787,7 +787,7 @@
       "symbol": "CAS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Voodoo",
@@ -795,7 +795,7 @@
       "symbol": "VDO",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "IVN Token",
@@ -803,7 +803,7 @@
       "symbol": "IVN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "KEOSToken",
@@ -811,7 +811,7 @@
       "symbol": "KEOS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ZperToken",
@@ -819,7 +819,7 @@
       "symbol": "ZPR",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "JoygoEOS",
@@ -827,7 +827,7 @@
       "symbol": "JEO",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Bread Token",
@@ -835,7 +835,7 @@
       "symbol": "BRD",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Insee Coin",
@@ -843,7 +843,7 @@
       "symbol": "SEE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "StarChainToken",
@@ -851,7 +851,7 @@
       "symbol": "STC",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "R token",
@@ -859,7 +859,7 @@
       "symbol": "R",
       "decimals": 0,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Hedron",
@@ -867,7 +867,7 @@
       "symbol": "HDRN",
       "decimals": 9,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "WANKCOIN",
@@ -875,7 +875,7 @@
       "symbol": "WKC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Guss.One",
@@ -883,7 +883,7 @@
       "symbol": "GUSS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "TokenFans Token",
@@ -891,7 +891,7 @@
       "symbol": "TFT",
       "decimals": 0,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "CommunityDigitalAsset",
@@ -899,7 +899,7 @@
       "symbol": "CDA.ONE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Pundi X Token",
@@ -907,7 +907,7 @@
       "symbol": "PXS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Mobile Phone Ad Chain",
@@ -915,7 +915,7 @@
       "symbol": "MP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "LaMonedaCoin",
@@ -923,7 +923,7 @@
       "symbol": "LMDA",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Raise Hash Power",
@@ -931,7 +931,7 @@
       "symbol": "RHP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "UNetworkToken",
@@ -939,7 +939,7 @@
       "symbol": "UUU",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ChainLink Token",
@@ -947,7 +947,7 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "EOSpace",
@@ -955,7 +955,7 @@
       "symbol": "EOP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "LearnChain",
@@ -963,7 +963,7 @@
       "symbol": "LEN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Hooli Coin Blockchain",
@@ -971,7 +971,7 @@
       "symbol": "HLI",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "OldDriver Token",
@@ -979,7 +979,7 @@
       "symbol": "ODT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BITXOXO",
@@ -987,7 +987,7 @@
       "symbol": "XOXO",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SHOOK",
@@ -995,7 +995,7 @@
       "symbol": "SHK",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Matic Token",
@@ -1003,7 +1003,7 @@
       "symbol": "MATIC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ethereumAI Token",
@@ -1011,7 +1011,7 @@
       "symbol": "EAI",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "CyberMiles Token",
@@ -1019,7 +1019,7 @@
       "symbol": "CMT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ClearCoin",
@@ -1027,7 +1027,7 @@
       "symbol": "XCLR",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ZEEX",
@@ -1035,7 +1035,7 @@
       "symbol": "ZIX",
       "decimals": 4,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "GYM Rewards",
@@ -1043,7 +1043,7 @@
       "symbol": "GYM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "USD Coin from Ethereum",
@@ -1051,7 +1051,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Alttex",
@@ -1059,7 +1059,7 @@
       "symbol": "ALTX",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -1067,7 +1067,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Endor Protocol Token",
@@ -1075,7 +1075,7 @@
       "symbol": "EDR",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "HMScoin",
@@ -1083,7 +1083,7 @@
       "symbol": "HMScoin",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "bitqy",
@@ -1091,7 +1091,7 @@
       "symbol": "BQ",
       "decimals": 3,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Merculet",
@@ -1099,7 +1099,7 @@
       "symbol": "MVP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "CyberVeinToken",
@@ -1107,7 +1107,7 @@
       "symbol": "CVT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BitGuild PLAT",
@@ -1115,7 +1115,7 @@
       "symbol": "PLAT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Oneledger Token",
@@ -1123,7 +1123,7 @@
       "symbol": "OLT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Bulleon",
@@ -1131,7 +1131,7 @@
       "symbol": "BUL",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "MinerCoin",
@@ -1139,7 +1139,7 @@
       "symbol": "BTMC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Internet Node Token",
@@ -1147,7 +1147,7 @@
       "symbol": "INT",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SensusNetwork",
@@ -1155,7 +1155,7 @@
       "symbol": "SENX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Dai Stablecoin from Ethereum",
@@ -1163,7 +1163,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SuperEdge",
@@ -1171,7 +1171,7 @@
       "symbol": "ECT",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Elsevier",
@@ -1179,7 +1179,7 @@
       "symbol": "ELV",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
@@ -1187,7 +1187,7 @@
       "symbol": "BCPT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "UseChainToken",
@@ -1195,7 +1195,7 @@
       "symbol": "UST",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ETHERCToken",
@@ -1203,7 +1203,7 @@
       "symbol": "EET",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "AICRYPTO",
@@ -1211,7 +1211,7 @@
       "symbol": "AIC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Aeternum Libertarian Foundation",
@@ -1219,7 +1219,7 @@
       "symbol": "ALF",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "CUZ",
@@ -1227,7 +1227,7 @@
       "symbol": "CUZ",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "KAN",
@@ -1235,7 +1235,7 @@
       "symbol": "KAN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ArcanaToken",
@@ -1243,7 +1243,7 @@
       "symbol": "ACNT",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "OMGToken",
@@ -1251,7 +1251,7 @@
       "symbol": "OMG",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Traxia Membership Token",
@@ -1259,7 +1259,7 @@
       "symbol": "TMT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SPINDLE",
@@ -1267,7 +1267,7 @@
       "symbol": "SPD",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "MingoCoin",
@@ -1275,7 +1275,7 @@
       "symbol": "XMC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "WITEE",
@@ -1283,7 +1283,7 @@
       "symbol": "WTE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "FusChain",
@@ -1291,7 +1291,7 @@
       "symbol": "FUS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Banker Token",
@@ -1299,7 +1299,7 @@
       "symbol": "BNK",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Deedcoin",
@@ -1307,7 +1307,7 @@
       "symbol": "DEED",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "IDOLCOIN",
@@ -1315,7 +1315,7 @@
       "symbol": "IDOL",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "EduCoin",
@@ -1323,7 +1323,7 @@
       "symbol": "EDU",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "PCHAIN",
@@ -1331,7 +1331,7 @@
       "symbol": "PAI",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Daneel",
@@ -1339,7 +1339,7 @@
       "symbol": "DAN",
       "decimals": 10,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "WatertoWorld",
@@ -1347,7 +1347,7 @@
       "symbol": "W2TW",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BaaSid",
@@ -1355,7 +1355,7 @@
       "symbol": "BAAS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Storiqa Token",
@@ -1363,7 +1363,7 @@
       "symbol": "STQ",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Ethernet Cash",
@@ -1371,7 +1371,7 @@
       "symbol": "ENC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "EOS Network",
@@ -1379,7 +1379,7 @@
       "symbol": "EON",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Couchain",
@@ -1387,7 +1387,7 @@
       "symbol": "COU",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "EOSGold",
@@ -1395,7 +1395,7 @@
       "symbol": "EOSG",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Bulleon",
@@ -1403,7 +1403,7 @@
       "symbol": "BUL",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Wrapped BTC",
@@ -1411,7 +1411,7 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Wrapped BTC from Ethereum",
@@ -1427,7 +1427,7 @@
       "symbol": "BITOX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Jury.Online Token",
@@ -1435,7 +1435,7 @@
       "symbol": "JOT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Themis",
@@ -1443,7 +1443,7 @@
       "symbol": "GET",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "AREACOIN",
@@ -1451,7 +1451,7 @@
       "symbol": "AREA",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Pepe",
@@ -1459,7 +1459,7 @@
       "symbol": "PEPE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "FALCON",
@@ -1467,7 +1467,7 @@
       "symbol": "FLC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "0x Protocol Token",
@@ -1475,7 +1475,7 @@
       "symbol": "ZRX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "AFTK Token",
@@ -1483,7 +1483,7 @@
       "symbol": "AFTK",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Simmitri",
@@ -1491,7 +1491,7 @@
       "symbol": "SIM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Recycle",
@@ -1499,7 +1499,7 @@
       "symbol": "RCYL",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "VeChain Token",
@@ -1507,7 +1507,7 @@
       "symbol": "VEN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "PHUX Governance Token",
@@ -1515,7 +1515,7 @@
       "symbol": "PHUX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "QuarkChain Token",
@@ -1523,7 +1523,7 @@
       "symbol": "QKC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "EPay",
@@ -1531,7 +1531,7 @@
       "symbol": "EPAY",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "STeX Exchange Token",
@@ -1539,7 +1539,7 @@
       "symbol": "STE",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "ApeCoin",
@@ -1547,7 +1547,7 @@
       "symbol": "APE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "民宿通",
@@ -1555,7 +1555,7 @@
       "symbol": "MST",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BSKR - pulselorian.com",
@@ -1563,7 +1563,7 @@
       "symbol": "BSKR",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Value Chain",
@@ -1571,7 +1571,7 @@
       "symbol": "VLC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "OriginSport Token",
@@ -1579,7 +1579,7 @@
       "symbol": "ORS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "DogeToken",
@@ -1587,7 +1587,7 @@
       "symbol": "DogeT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Crafty Token",
@@ -1595,7 +1595,7 @@
       "symbol": "CFTY",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Jbox",
@@ -1603,7 +1603,7 @@
       "symbol": "JBX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Medical Token Currency",
@@ -1611,7 +1611,7 @@
       "symbol": "MTC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Sapien Network",
@@ -1619,7 +1619,7 @@
       "symbol": "SPN",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "KEA Coin",
@@ -1627,7 +1627,7 @@
       "symbol": "KEA",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "IOSToken",
@@ -1635,7 +1635,7 @@
       "symbol": "IOST",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Big Healthcare Coin",
@@ -1643,7 +1643,7 @@
       "symbol": "BHC",
       "decimals": 1,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Love Wine Coin",
@@ -1651,7 +1651,7 @@
       "symbol": "LOVC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Zilliqa",
@@ -1659,7 +1659,7 @@
       "symbol": "ZIL",
       "decimals": 12,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Tether USD from Ethereum",
@@ -1667,7 +1667,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "INCX Coin",
@@ -1675,7 +1675,7 @@
       "symbol": "INCX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BAI2.0",
@@ -1683,7 +1683,7 @@
       "symbol": "BAI",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "TETRA",
@@ -1691,7 +1691,7 @@
       "symbol": "TETRAp",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Neyros Network",
@@ -1699,7 +1699,7 @@
       "symbol": "NEYROS",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "PayChain",
@@ -1707,7 +1707,7 @@
       "symbol": "PChain",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Zipper",
@@ -1715,7 +1715,7 @@
       "symbol": "ZIP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Synthestech Token",
@@ -1723,7 +1723,7 @@
       "symbol": "STT",
       "decimals": 0,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Nexo",
@@ -1731,7 +1731,7 @@
       "symbol": "NEXO",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Skrumble Token",
@@ -1739,7 +1739,7 @@
       "symbol": "SKM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Chandler",
@@ -1747,7 +1747,7 @@
       "symbol": "CHANDLER",
       "decimals": 0,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Fox Trading",
@@ -1755,7 +1755,7 @@
       "symbol": "FOXT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "PEPE",
@@ -1763,7 +1763,7 @@
       "symbol": "PEPE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "TBA2",
@@ -1771,7 +1771,7 @@
       "symbol": "TBA2",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Populous XBRL token",
@@ -1779,7 +1779,7 @@
       "symbol": "PXT",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Internet Money",
@@ -1787,7 +1787,7 @@
       "symbol": "IM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Wait",
@@ -1795,7 +1795,7 @@
       "symbol": "WAIT",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "QMQCoin",
@@ -1803,7 +1803,7 @@
       "symbol": "QMQ",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Quant",
@@ -1811,7 +1811,7 @@
       "symbol": "QNT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "KELTA",
@@ -1819,7 +1819,7 @@
       "symbol": "KLT",
       "decimals": 0,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Gala",
@@ -1827,7 +1827,7 @@
       "symbol": "GALA",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "FOR Agriculture Coin",
@@ -1835,7 +1835,7 @@
       "symbol": "FACC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Dentacoin",
@@ -1843,7 +1843,7 @@
       "symbol": "٨",
       "decimals": 0,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Golem Network Token",
@@ -1851,7 +1851,7 @@
       "symbol": "GNT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Fantom Token",
@@ -1859,7 +1859,7 @@
       "symbol": "FTM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SanDianZhong",
@@ -1867,7 +1867,7 @@
       "symbol": "SDZ",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "IOT on Chain",
@@ -1875,7 +1875,7 @@
       "symbol": "ITC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Binance USD",
@@ -1883,7 +1883,7 @@
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "PulseBitcoin",
@@ -1891,7 +1891,7 @@
       "symbol": "PLSB",
       "decimals": 12,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "AngelToken",
@@ -1899,7 +1899,7 @@
       "symbol": "ANGEL",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "XEN Crypto",
@@ -1907,7 +1907,7 @@
       "symbol": "XEN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "AION",
@@ -1915,7 +1915,7 @@
       "symbol": "AION",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Davinci coin",
@@ -1923,7 +1923,7 @@
       "symbol": "DAC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Quantum Gold Token",
@@ -1931,7 +1931,7 @@
       "symbol": "QTG",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Keyrpto Token",
@@ -1939,7 +1939,7 @@
       "symbol": "KYT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Webcoin",
@@ -1947,7 +1947,7 @@
       "symbol": "WEB",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "FTI",
@@ -1955,7 +1955,7 @@
       "symbol": "FTI",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Bytom",
@@ -1963,7 +1963,7 @@
       "symbol": "BTM",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Davinci coin",
@@ -1971,7 +1971,7 @@
       "symbol": "DAC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "DOGE",
@@ -1979,7 +1979,7 @@
       "symbol": "DOGE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "DoradoToken",
@@ -1987,7 +1987,7 @@
       "symbol": "DOR",
       "decimals": 15,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "BAX",
@@ -1995,7 +1995,7 @@
       "symbol": "BAX",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "brc",
@@ -2003,7 +2003,7 @@
       "symbol": "brc",
       "decimals": 4,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Omix",
@@ -2011,7 +2011,7 @@
       "symbol": "OMX",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "CastlePeak Game",
@@ -2019,7 +2019,7 @@
       "symbol": "CPG",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Davinci coin",
@@ -2027,7 +2027,7 @@
       "symbol": "DAC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Basic Attention Token",
@@ -2035,7 +2035,7 @@
       "symbol": "BAT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "UG Coin",
@@ -2043,7 +2043,7 @@
       "symbol": "UGC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Icosa",
@@ -2051,7 +2051,7 @@
       "symbol": "ICSA",
       "decimals": 9,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Aeternity",
@@ -2059,7 +2059,7 @@
       "symbol": "AE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Reputation",
@@ -2067,7 +2067,7 @@
       "symbol": "REP",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "KellerWilliams",
@@ -2075,7 +2075,7 @@
       "symbol": "KWC",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SexChain",
@@ -2083,7 +2083,7 @@
       "symbol": "SEXN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Lightning Network",
@@ -2091,7 +2091,7 @@
       "symbol": "LIGHT",
       "decimals": 2,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "WeMediaCash",
@@ -2099,7 +2099,7 @@
       "symbol": "WMCH",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "CICoin",
@@ -2107,7 +2107,7 @@
       "symbol": "CIC",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Liquid staked Ether 2.0",
@@ -2115,7 +2115,7 @@
       "symbol": "stETH",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "XEN Crypto",
@@ -2123,7 +2123,7 @@
       "symbol": "pXEN",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "DEX Token",
@@ -2131,7 +2131,7 @@
       "symbol": "DEXT",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Storm Token",
@@ -2139,7 +2139,7 @@
       "symbol": "STORM",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "HoloToken",
@@ -2147,7 +2147,7 @@
       "symbol": "HOT",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Theta Token",
@@ -2155,7 +2155,7 @@
       "symbol": "THETA",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Global game payment currency",
@@ -2163,7 +2163,7 @@
       "symbol": "GGPC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Telcoin",
@@ -2171,7 +2171,7 @@
       "symbol": "TEL",
       "decimals": 2,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Aurora",
@@ -2179,7 +2179,7 @@
       "symbol": "AOA",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "PulseInu",
@@ -2187,7 +2187,7 @@
       "symbol": "PINU",
       "decimals": 12,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Uniswap",
@@ -2195,7 +2195,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "EBCoin",
@@ -2203,7 +2203,7 @@
       "symbol": "EBC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "eosDAC Community Owned EOS Block Producer ERC20 Tokens",
@@ -2211,7 +2211,7 @@
       "symbol": "eosDAC",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Enjin Coin",
@@ -2219,7 +2219,7 @@
       "symbol": "ENJ",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "SAND",
@@ -2227,7 +2227,7 @@
       "symbol": "SAND",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     },
     {
       "name": "Aave Token",
@@ -2235,7 +2235,7 @@
       "symbol": "AAVE",
       "decimals": 18,
       "chainId": 369,
-      "logoURI": ""
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
     }
   ]
 }
