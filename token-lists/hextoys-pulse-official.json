@@ -70,6 +70,14 @@
       "logoURI": "https://tokens.hex.toys/images/369/0x57fde0a71132198BBeC939B98976993d8D89D225.png"
     },
     {
+      "name": "HEX",
+      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "symbol": "HEX",
+      "decimals": 8,
+      "chainId": 369,
+      "logoURI": "https://tokens.hex.toys/images/369/default.png"
+    },
+    {
       "name": "Incentive",
       "address": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
       "symbol": "INC",
