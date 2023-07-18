@@ -71,11 +71,11 @@
     },
     {
       "name": "HEX",
-      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
       "symbol": "HEX",
       "decimals": 8,
       "chainId": 369,
-      "logoURI": "https://tokens.hex.toys/images/369/default.png"
+      "logoURI": "https://tokens.hex.toys/images/369/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
     },
     {
       "name": "Incentive",
